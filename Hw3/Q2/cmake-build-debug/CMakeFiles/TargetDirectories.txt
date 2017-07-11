@@ -1,0 +1,3 @@
+C:/Users/asus/Desktop/Q2/cmake-build-debug/CMakeFiles/Q2.dir
+C:/Users/asus/Desktop/Q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asus/Desktop/Q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
